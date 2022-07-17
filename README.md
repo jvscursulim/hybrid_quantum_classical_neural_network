@@ -6,7 +6,7 @@ This repository is a study about Hybrid Quantum Classical Neural Network, where 
 
 ## References:
 
-[1] Implement a Hybrid Quantum Classical Neural Network with Qiskit ([link])(https://medium.com/qiskit/implement-a-hybrid-quantum-classical-neural-network-w)
+[1] Implement a Hybrid Quantum Classical Neural Network with Qiskit - [link](https://medium.com/qiskit/implement-a-hybrid-quantum-classical-neural-network-w)
 
 [2] Hybrid Quantum-Classical Neural Network for
-Calculating Ground State Energies of Molecules ([link])(https://arxiv.org/pdf/1912.06184.pdf)
+Calculating Ground State Energies of Molecules - [link](https://arxiv.org/pdf/1912.06184.pdf)
